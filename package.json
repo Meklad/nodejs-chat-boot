@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-chat-boot",
+  "version": "1.0.0",
+  "description": "A chat boot using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meklad/nodejs-chat-boot.git"
+  },
+  "keywords": [
+    "node.js",
+    "chat-boot"
+  ],
+  "author": "Ahmed Meklad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meklad/nodejs-chat-boot/issues"
+  },
+  "homepage": "https://github.com/Meklad/nodejs-chat-boot#readme"
+}
