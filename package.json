@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Meklad/nodejs-chat-boot/issues"
   },
-  "homepage": "https://github.com/Meklad/nodejs-chat-boot#readme"
+  "homepage": "https://github.com/Meklad/nodejs-chat-boot#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
