@@ -18,7 +18,8 @@ app.get("/facebook-webhook", (req, res) => {
 app.post("/facebook-webhook", (req, res) => {
 	let messageBody = req.body
     console.log(messageBody)
-    res.sendStatus(200)
+
+	res.sendStatus(200)
 });
 
 app.listen(5000)
